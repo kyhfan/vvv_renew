@@ -53,7 +53,8 @@
 		</div>
 		<script src="//developers.kakao.com/sdk/js/kakao.min.js"></script>		
 		<script>
-			Kakao.init('ff013671b5f7b01d59770657a8787952');
+			// Kakao.init('ff013671b5f7b01d59770657a8787952');
+			Kakao.init('8c2d788e7cfd26aa9e495f5bf8b2be2c');
 
 			//	기본 기능 테스트 코드
 			$doc = $(document);

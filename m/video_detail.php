@@ -400,7 +400,8 @@
 		<script src="../lib/clipboard/dist/clipboard.min.js"></script>
 		<script src="https://developers.kakao.com/sdk/js/kakao.min.js"></script>
 		<script>
-			Kakao.init('ff013671b5f7b01d59770657a8787952');
+			// Kakao.init('ff013671b5f7b01d59770657a8787952');
+			Kakao.init('8c2d788e7cfd26aa9e495f5bf8b2be2c');
 			$doc = $(document);
 			
 			//			공유 버튼 토글
